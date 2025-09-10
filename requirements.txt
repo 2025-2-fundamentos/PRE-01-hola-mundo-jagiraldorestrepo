@@ -1,1 +1,4 @@
+# este archivo lista las dependencias del proyecto
+# es decir lo que tenemos que usar para que funcione
+
 pytest

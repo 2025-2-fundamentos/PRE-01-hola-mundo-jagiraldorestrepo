@@ -12,7 +12,7 @@ source setup.sh
 
 Ejecute los siguientes comandos en el terminal:
 
-```bash
+```bash  #No es bash, es cmd 
 python3 -m venv .venv
 .venv\Scripts\activate
 setup
